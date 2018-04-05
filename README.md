@@ -1,2 +1,2 @@
-# image_to_text
+# Image to text
 Python program to read text from image
